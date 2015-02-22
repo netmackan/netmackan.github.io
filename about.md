@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Markus blog about random stuff related to crypto, PKI, security, insecurity, 
+free and open source software, VoIP/XMPP/SIP, federated social networks, 
+cycling and anything else. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This blog is made using [Jekyll](http://jekyllrb.com) and the content is
+ available at [github.com/netmackan/netmackan.github.io](https://github.com/netmackan/netmackan.github.io).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Follow me on [GNU Social/Quitter](https://quitter.se/netmackan).

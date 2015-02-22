@@ -2,13 +2,13 @@
 title: Markus Kilås pseudorandom posts
 email: markus@markuspage.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Markus blog about random stuff related to crypto, PKI, security, insecurity,
+  free and open source software, VoIP/XMPP/SIP, federated social networks, 
+  cycling and anything else.
 #baseurl: "/markus" # the subpath of your site, e.g. /blog/
 url: "https://netmackan.github.io" # the base hostname & protocol for your site
 twitter_username: netmackan
-github_username:  netmackan
+#github_username:  netmackan
 quitter_username: netmackan
 
 # Build settings
