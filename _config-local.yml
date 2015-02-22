@@ -1,0 +1,3 @@
+# Different settings when not publishin to GitHub Pages
+baseurl: "/markus" # the subpath of your site, e.g. /blog/
+url: "https://blog.kilas.se" # the base hostname & protocol for your site
