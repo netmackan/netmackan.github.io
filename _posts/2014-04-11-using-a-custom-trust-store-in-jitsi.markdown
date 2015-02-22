@@ -15,8 +15,10 @@ Currently Jitsi uses the default Java trust store (at least on Linux) but it is 
 
 Using the Java keytool command a new keystore can be created and the CA certificates that we want to trust imported into it:
 
+{% highlight bash %}
 keytool -importcert -trustcacerts -keystore jitsi-trust.jks -file StartCom.pem -alias startcom
 keytool -importcert -trustcacerts -keystore jitsi-trust.jks -file MyCustomCA.pem -alias mycustomca
+{% endhighlight %}
 
 The command can be repeated for all CA certificates to import.
 
