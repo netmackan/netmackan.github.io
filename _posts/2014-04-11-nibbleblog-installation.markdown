@@ -2,7 +2,7 @@
 layout: post
 title:  "Nibbleblog installation"
 date:   2014-04-11 17:59:48
-categories: blogging
+categories: Blogging
 ---
 Set up of [Nibbleblog] was very simple.
 

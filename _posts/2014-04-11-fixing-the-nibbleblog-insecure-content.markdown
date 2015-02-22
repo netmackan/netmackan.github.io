@@ -2,7 +2,7 @@
 layout: post
 title:  "Fixing the Nibbleblog insecure content"
 date:   2014-04-11 18:34:47
-categories: blogging
+categories: Blogging
 ---
 
 The cause of the [insecure content][prev-post] in Nibbleblog was the use of some Google fonts in the CSS.

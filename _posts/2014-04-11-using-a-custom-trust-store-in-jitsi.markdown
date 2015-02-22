@@ -2,7 +2,7 @@
 layout: post
 title:  "Using a custom trust store in Jitsi"
 date:   2014-04-11 18:46:35
-categories: jitsi
+categories: Jitsi TLS
 ---
 
 Sometimes you don't want to trust all the certification authority (CA) certificates available in the Java truststore in your XMPP application. It could also be that you want to trust a specific CA only for the XMPP application.
